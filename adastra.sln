@@ -1,31 +1,25 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36623.8 d17.14
+VisualStudioVersion = 17.14.36717.8 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "adastra", "adastra.vcxproj", "{B1BC8D25-232D-4C92-9A37-FDFE64A7DEED}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdAstra", "AdAstra.csproj", "{13089D08-9126-43A1-8B45-BC5195C985D1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|x64 = Debug|x64
-		Debug|x86 = Debug|x86
-		Release|x64 = Release|x64
-		Release|x86 = Release|x86
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B1BC8D25-232D-4C92-9A37-FDFE64A7DEED}.Debug|x64.ActiveCfg = Debug|x64
-		{B1BC8D25-232D-4C92-9A37-FDFE64A7DEED}.Debug|x64.Build.0 = Debug|x64
-		{B1BC8D25-232D-4C92-9A37-FDFE64A7DEED}.Debug|x86.ActiveCfg = Debug|Win32
-		{B1BC8D25-232D-4C92-9A37-FDFE64A7DEED}.Debug|x86.Build.0 = Debug|Win32
-		{B1BC8D25-232D-4C92-9A37-FDFE64A7DEED}.Release|x64.ActiveCfg = Release|x64
-		{B1BC8D25-232D-4C92-9A37-FDFE64A7DEED}.Release|x64.Build.0 = Release|x64
-		{B1BC8D25-232D-4C92-9A37-FDFE64A7DEED}.Release|x86.ActiveCfg = Release|Win32
-		{B1BC8D25-232D-4C92-9A37-FDFE64A7DEED}.Release|x86.Build.0 = Release|Win32
+		{13089D08-9126-43A1-8B45-BC5195C985D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13089D08-9126-43A1-8B45-BC5195C985D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13089D08-9126-43A1-8B45-BC5195C985D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13089D08-9126-43A1-8B45-BC5195C985D1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {59A24FA8-873D-4655-978A-BF6DFEEFCC6E}
+		SolutionGuid = {56567F6E-9A72-4DEC-BC42-7E1AD76B9ACB}
 	EndGlobalSection
 EndGlobal
