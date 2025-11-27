@@ -8,6 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="netDxf" Version="2023.11.10" />
     <PackageReference Include="Raylib-cs" Version="7.0.2" />
     <PackageReference Include="Svg" Version="3.4.7" />
   </ItemGroup>
